@@ -6,8 +6,8 @@
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
 ## My Experiences:
-- Full Stack Developer @EASSET Co., Ltd. (April 2023 - present)
-- Full Stack Developer Intern @C.S.I. Groups (Thailand) Co., Ltd. (April 2022 - September 2022)
+- Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. 
+- Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. 
 
 ## My Skills:
 - Programming Languages <br>
