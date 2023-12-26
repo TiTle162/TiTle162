@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # My Project
 ## SEAPlag
 > [!TIP]
-> Repository [See more...](https://github.com/TiTle162/SEAPlag)
-> Documentary [See more...](https://github.com/TiTle162/Identity-Server-System-Documentary)
+> Repository [See more](https://github.com/TiTle162/SEAPlag) <br>
+> Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
 ## Identity Server System
 > [!TIP]
-> Repository [See more...](https://github.com/TiTle162/Identity-Server-System)
-> Documentary [See more...](https://github.com/TiTle162/Identity-Server-System-Documentary)
+> Repository [See more](https://github.com/TiTle162/Identity-Server-System) <br>
+> Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
