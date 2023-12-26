@@ -7,9 +7,9 @@
 
 ## My Experiences:
 - Full Stack Developer <br>
-  -  EASSET 
+  - EASSET Co., Ltd.
 - Full Stack Developer Intern  <br>
-  - C.S.I. Groups
+  - C.S.I. Groups (Thailand) Co., Ltd.
 
 ## My Skills:
 - Programming Languages <br>
