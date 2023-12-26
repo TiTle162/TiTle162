@@ -49,7 +49,7 @@
 > - [Email](mailto:sirawit_083@hotmail.com)
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
 
-## My Projects
+## My Projects:
 ### SEAPlag  
 #### Web application for checking source code plagiarism.
  
