@@ -42,7 +42,7 @@
 
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
-> - [Email](mailto:sirawit_083@hotmail.com)
+> - [Email](mailto:sirawit_marshh@hotmail.com)
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
 
 ## :gem: My Projects:
