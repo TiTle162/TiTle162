@@ -3,7 +3,15 @@
 
 **TiTle162/TiTle162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### My skills:
+## My skills:
+### Programming Languages [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+### Web Development
+### Mobile Development
+### Database
+### Version Control
+### Familiar with
+### Interested Subjects
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
