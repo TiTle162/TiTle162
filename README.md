@@ -5,7 +5,7 @@
   <p align="center"><b><i><q>  The infinite knowledge to bring an idea to life. </q></i></b> </p>
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
-:books: ## My Experiences:
+## :books: My Experiences:
 - Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. 
 - Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. 
 
