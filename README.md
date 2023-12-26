@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # My Project
 ## SEAPlag
 Web application for check source code plagiarism.
+
 ![alt text](https://github.com/TiTle162/SEAPlag/blob/main/SEAP-Screens/Import%20Source%20Code%20Page.PNG?raw=true)
 > [!TIP]
 > Repository [See more](https://github.com/TiTle162/SEAPlag) <br>
