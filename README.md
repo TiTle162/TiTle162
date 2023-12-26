@@ -1,8 +1,8 @@
 ### <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Title.</h1>
 
   <p align="center">I'm a programmer who is passionate about coding and enjoys exploring new technologies. </p>
->  <p align="center">For me, what makes software interesting is </p>
-  <p align="center"><b><q>The infinite knowledge to bring an idea to life.</q></b> </p>
+  <p align="center">For me, what makes software interesting is </p>
+> The infinite knowledge to bring an idea to life.
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
 
