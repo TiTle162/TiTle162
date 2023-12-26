@@ -47,7 +47,9 @@
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
 > - Contact Me <br>
->   - - ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+>   - ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+>   - ![image](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
+>   - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # My Project
 ## SEAPlag 
