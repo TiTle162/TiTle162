@@ -5,11 +5,11 @@
   <p align="center"><b><i><q>  The infinite knowledge to bring an idea to life. </q></i></b> </p>
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
-## :books: My Experiences:
+## :office: My Experiences:
 - Full Stack Developer (April 2023 - present) :arrow_forward: @EASSET Co., Ltd. <br>
 - Full Stack Developer Intern (April 2022 - September 2022) :arrow_forward: @C.S.I. Groups (Thailand) Co., Ltd. <br>
 
-## My Skills:
+## :books: My Skills:
 - Programming Languages <br>
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
