@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # My Project
 ## SEAPlag
-Web application for check source code plagiarism.
+### Web application for check source code plagiarism.
  
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
 > [!TIP]
