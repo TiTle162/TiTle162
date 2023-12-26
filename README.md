@@ -2,7 +2,7 @@
 
 <div align="center">
   I'm a programmer who is passionate about coding and enjoys exploring new technologies. <br>
-  For me, what makes software interesting is 'the infinite knowledge to bring an idea to life'. <br> 
+  For me, what makes software interesting is <h2>'the infinite knowledge to bring an idea to life'</h2>.<br> 
   One day I will be part of a software development team that will become internationally known. <br>
 </div>
 
