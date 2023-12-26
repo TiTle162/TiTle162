@@ -6,6 +6,10 @@
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
 ## My Experiences:
+- Full Stack Developer <br>
+  -  EASSET 
+- Full Stack Developer Intern  <br>
+  - C.S.I. Groups
 
 ## My Skills:
 - Programming Languages <br>
