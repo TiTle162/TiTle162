@@ -46,7 +46,7 @@
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
 
 ## :gem: My Projects:
- - *** ###  SEAPlag ***
+- ###  SEAPlag ***
   #### ☑️ Web application for checking source code plagiarism.
  
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
