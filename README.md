@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 # My Project
 ## SEAPlag
+![alt text](https://github.com/TiTle162/SEAPlag/blob/main/SEAP-Screens/Import%20Source%20Code%20Page.PNG?raw=true)
 > [!TIP]
 > Repository [See more](https://github.com/TiTle162/SEAPlag) <br>
 > Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
 ## Identity Server System
+![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/OAuth%20Login%20Page.png?raw=true)
 > [!TIP]
 > Repository [See more](https://github.com/TiTle162/Identity-Server-System) <br>
 > Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
