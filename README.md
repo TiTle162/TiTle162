@@ -2,12 +2,12 @@
 
   <p align="center">I'm a programmer who is passionate about coding and enjoys exploring new technologies. </p>
   <p align="center">For me, what makes software interesting is </p>
-  :fire:<p align="center"><b><i><q>  The infinite knowledge to bring an idea to life. </q></i></b> </p>:fire:
+  <p align="center"><b><i><q>  The infinite knowledge to bring an idea to life. </q></i></b> </p>
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
 ## :books: My Experiences:
-- Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. 
-- Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. 
+:arrow_forward: Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. 
+:arrow_forward: Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. 
 
 ## My Skills:
 - Programming Languages <br>
