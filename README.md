@@ -46,8 +46,8 @@
 
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
-> - ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) [Click here](mailto:sirawit_083@hotmail.com)
-> - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click here](https://github.com/TiTle162/SEAPlag)
+> - [Email](mailto:sirawit_083@hotmail.com)
+> - [LinkedIn](https://github.com/TiTle162/SEAPlag)
 
 # My Project
 ## SEAPlag 
