@@ -1,11 +1,10 @@
 ### <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Title.</h1>
 
-<div align="center">
-  I'm a programmer who is passionate about coding and enjoys exploring new technologies. <br>
-  For me, what makes software interesting is <br> 
-  __'the infinite knowledge to bring an idea to life'. __<br> 
-  One day I will be part of a software development team that will become internationally known. <br>
-</div>
+  <p align="center">I'm a programmer who is passionate about coding and enjoys exploring new technologies. </p><br>
+  <p align="center">For me, what makes software interesting is </p><br> 
+  ** <p align="center">'the infinite knowledge to bring an idea to life'. </p><br> **
+  <p align="center">One day I will be part of a software development team that will become internationally known. </p><br>
+
 
 ## My Skills:
 - Programming Languages <br>
