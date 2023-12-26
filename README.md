@@ -5,9 +5,7 @@
 
 ### My skills:
 - Programming Languages<br><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
-- Web Development
-- Mobile Development
+  [![My Skills](https://skillicons.dev/icons?i=cs,java,ts,html,css,js)](https://skillicons.dev)
 - Database
 - Version Control
 - Familiar with
