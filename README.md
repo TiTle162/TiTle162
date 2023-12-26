@@ -1,4 +1,4 @@
-### <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Title.</h3>
+### <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Title.</h31
 
 <div align="center">
   I'm a programmer who is passionate about coding and enjoys exploring new technologies. <br>
