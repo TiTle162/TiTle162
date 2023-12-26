@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# My Project
+## SEAPlag
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+## Identity Server System
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
