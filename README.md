@@ -46,9 +46,8 @@
 
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
->   - ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) sirawit_083@hotmail.com
->   - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
->   - [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](https://github.com/TiTle162/SEAPlag) <br>
+> - ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) [Click here](mailto:sirawit_083@hotmail.com)
+> - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click here](https://github.com/TiTle162/SEAPlag)
 
 # My Project
 ## SEAPlag 
@@ -56,14 +55,14 @@
  
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
 > [!TIP]
-> - Repository [See more](https://github.com/TiTle162/SEAPlag) <br>
-> - Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
+> - Repo [See more](https://github.com/TiTle162/SEAPlag) <br>
+> - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
 ## Identity Server System
 ### Web application to validate user authentication and authorization to access other application.
  
 ![alt text](https://github.com/TiTle162/Identity-Server-System-Documentary/blob/main/IDS-AUCC2022%20Poster.png?raw=true)
 > [!TIP]
-> - Repository [See more](https://github.com/TiTle162/Identity-Server-System) <br>
-> - Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
+> - Repo [See more](https://github.com/TiTle162/Identity-Server-System) <br>
+> - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
