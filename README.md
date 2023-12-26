@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## SEAPlag
 Web application for check source code plagiarism.
  
-![alt text](https://github.com/TiTle162/SEAPlag/blob/main/SEAP-Screens/Import%20Source%20Code%20Page.PNG?raw=true)
+![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
 > [!TIP]
 > - Repository [See more](https://github.com/TiTle162/SEAPlag) <br>
 > - Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
@@ -26,7 +26,7 @@ Web application for check source code plagiarism.
 ## Identity Server System
 Web application to validate user authentication and authorization to access other application.
  
-![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/OAuth%20Login%20Page.png?raw=true)
+![alt text](https://github.com/TiTle162/Identity-Server-System-Documentary/blob/main/IDS-AUCC2022%20Poster.png?raw=true)
 > [!TIP]
 > - Repository [See more](https://github.com/TiTle162/Identity-Server-System) <br>
 > - Documentary [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
