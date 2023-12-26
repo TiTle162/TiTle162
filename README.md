@@ -48,17 +48,17 @@
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
 > - [Email](mailto:sirawit_083@hotmail.com)
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
-# My Project
-## SEAPlag 
-### Web application for check source code plagiarism.
+## My Project
+### SEAPlag 
+#### Web application for check source code plagiarism.
  
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
 > [!TIP]
 > - Repo [See more](https://github.com/TiTle162/SEAPlag) <br>
 > - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
-## Identity Server System
-### Web application to validate user authentication and authorization to access other application.
+### Identity Server System
+#### Web application to validate user authentication and authorization to access other application.
  
 ![alt text](https://github.com/TiTle162/Identity-Server-System-Documentary/blob/main/IDS-AUCC2022%20Poster.png?raw=true)
 > [!TIP]
