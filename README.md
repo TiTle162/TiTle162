@@ -47,7 +47,7 @@
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
 > - [Email](mailto:sirawit_083@hotmail.com)
-> - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235
+> - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
 # My Project
 ## SEAPlag 
 ### Web application for check source code plagiarism.
