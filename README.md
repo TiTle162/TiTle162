@@ -50,7 +50,7 @@
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
 
 ## My Projects:
-### SEAPlag  
+### - SEAPlag  
 #### Web application for checking source code plagiarism.
  
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
@@ -58,7 +58,7 @@
 > - Details [See more](https://github.com/TiTle162/SEAPlag) <br>
 > - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
-### Identity Server System
+### - Identity Server System
 #### Web application to validate user authentication and authorization to access other applications.
  
 ![alt text](https://github.com/TiTle162/Identity-Server-System-Documentary/blob/main/IDS-AUCC2022%20Poster.png?raw=true)
