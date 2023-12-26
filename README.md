@@ -6,8 +6,8 @@
   <p align="center">One day I will be part of a software development team that will become internationally known. </p>
 
 ## :books: My Experiences:
-:arrow_forward: Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. 
-:arrow_forward: Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. 
+:arrow_forward: Full Stack Developer (April 2023 - present) -> @EASSET Co., Ltd. <br>
+:arrow_forward: Full Stack Developer Intern (April 2022 - September 2022) -> @C.S.I. Groups (Thailand) Co., Ltd. <br>
 
 ## My Skills:
 - Programming Languages <br>
