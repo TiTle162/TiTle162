@@ -2,7 +2,7 @@
 
   <p align="center">I'm a programmer who is passionate about coding and enjoys exploring new technologies. </p><br>
   <p align="center">For me, what makes software interesting is </p><br> 
-  ** <p align="center">'the infinite knowledge to bring an idea to life'. </p><br> **
+  <p align="center"><b>'the infinite knowledge to bring an idea to life'. </b></p><br>
   <p align="center">One day I will be part of a software development team that will become internationally known. </p><br>
 
 
