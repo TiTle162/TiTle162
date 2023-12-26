@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 # My Project
 ## SEAPlag
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Repository [See more...](https://github.com/TiTle162/SEAPlag)
+> Documentary [See more...](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
 ## Identity Server System
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Repository [See more...](https://github.com/TiTle162/Identity-Server-System)
+> Documentary [See more...](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
