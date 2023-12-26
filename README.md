@@ -3,7 +3,7 @@
 
 **TiTle162/TiTle162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## My skills:
+## My Skills:
 - Programming Languages <br>
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +48,8 @@
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
 > - [Email](mailto:sirawit_083@hotmail.com)
 > - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
-## My Project
+
+## My Projects
 ### SEAPlag 
 #### Web application for check source code plagiarism.
  
