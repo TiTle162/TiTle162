@@ -1,7 +1,8 @@
 ### <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Title.</h3>
 
-
-**TiTle162/TiTle162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer who is passionate about coding and enjoys exploring new technologies. 
+For me, what makes software interesting is 'the infinite knowledge to bring an idea to life'. 
+One day I will be part of a software development team that will become internationally known.
 
 ## My Skills:
 - Programming Languages <br>
