@@ -62,4 +62,10 @@
 > - Details [See more](https://github.com/TiTle162/Identity-Server-System) <br>
 > - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
 
+- [x] Web Developer
+- [x] Mobile Developer
+- [ ] DevOps
+- [ ] Senior Developer
+- [ ] Project Manager
+
 <h4 align="center">🙏&nbsp; Thank You for Visiting &nbsp;🙏</h4>
