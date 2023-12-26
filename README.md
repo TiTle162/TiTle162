@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+> [!NOTE]
+> [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application)
+
 # My Project
 ## SEAPlag 
 ### Web application for check source code plagiarism.
