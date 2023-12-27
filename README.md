@@ -17,7 +17,7 @@
     ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
     ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 - Full Stack Developer Intern (April 2022 - September 2022) :arrow_forward: @C.S.I. Groups (Thailand) Co., Ltd. <br>
-  - Web Application ➖ The system verifies the identity and permissions of users to accessing the application. <br>
+  - Web Application ➖ The system verifies the identity and permissions of users to accessing the other applications. <br>
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
