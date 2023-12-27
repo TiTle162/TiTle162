@@ -7,10 +7,10 @@
 
 ## :office: My Experiences:
 - Full Stack Developer (April 2023 - present) :arrow_forward: @EASSET Co., Ltd. <br>
-  - Mobile Application :arrow_forward: The system for credit card application. 
-  - Web Application :arrow_forward: The system retrieves customer information based on the promotion conditions.
+  - Mobile Application ➖ The system for credit card application. 
+  - Web Application ➖ The system retrieves customer information based on the promotion conditions.
 - Full Stack Developer Intern (April 2022 - September 2022) :arrow_forward: @C.S.I. Groups (Thailand) Co., Ltd. <br>
-  - Web Application :arrow_forward: The system to verify the identity and permissions of users to accessing the application.
+  - Web Application ➖ The system to verify the identity and permissions of users to accessing the application.
 
 ## :books: My Skills:
 - Programming Languages <br>
