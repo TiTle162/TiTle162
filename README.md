@@ -7,9 +7,8 @@
 
 ## :office: My Experiences:
 - Full Stack Developer (April 2023 - present) :arrow_forward: @EASSET Co., Ltd. <br>
-  - Mobile Application ➖ The system for credit card application. <br>
-    Stack:
-    - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  - Mobile Application ➖ The system for credit card application.
+    ➖ ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
       ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   - Web Application ➖ The system retrieves customer information based on the promotion conditions.
