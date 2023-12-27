@@ -10,7 +10,7 @@
   - Mobile Application ➖ The system for credit card application. 
   - Web Application ➖ The system retrieves customer information based on the promotion conditions.
 - Full Stack Developer Intern (April 2022 - September 2022) :arrow_forward: @C.S.I. Groups (Thailand) Co., Ltd. <br>
-  - Web Application ➖ The system to verify the identity and permissions of users to accessing the application.
+  - Web Application ➖ The system verifies the identity and permissions of users to accessing the application.
 
 ## :books: My Skills:
 - Programming Languages <br>
