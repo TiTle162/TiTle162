@@ -65,7 +65,7 @@
 ![alt text](https://github.com/TiTle162/SEAPlag-Documentary/blob/main/SEAPlag-NSC2023%20Poster.jpg?raw=true)
 > [!TIP]
 > - Details [See more](https://github.com/TiTle162/SEAPlag) <br>
-> - Docs [See more](https://github.com/TiTle162/Identity-Server-System-Documentary)
+> - Docs [See more](https://github.com/TiTle162/SEAPlag-Documentary)
 
 - ### Identity Server System 🏆
   #### ☑️ Web application to validate user authentication and authorization to access other applications.
