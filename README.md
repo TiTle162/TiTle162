@@ -56,7 +56,7 @@
 > [!NOTE]
 > - [Résumé & All About Me](https://github.com/TiTle162/For-Job-Application) <br>
 > - [Email](mailto:sirawit_marshh@hotmail.com)
-> - [LinkedIn](https://www.linkedin.com/in/sirawit-thitisoontornlak-334b17235)
+> - [LinkedIn](https://www.linkedin.com/in/sirawitt162)
 
 ## :gem: My Projects:
 - ###  SEAPlag 🏆
